@@ -8,7 +8,7 @@ const Home = () => {
             <div className="flex items-center justify-start lg:pl-[50px] 2xl:pl-[80px]">
                 <div className="flex-col gap-[25px] items-center justify-center flex lg:block">
                     <p className="lg:text-start text-[26px] sm:text-[35px] xl:text-[40px] 2xl:text-[50px] max-w-[700px] lg:max-w-auto font-[700] text-center leading-[1.3] text-[#000000e3]">
-                        Welcome to Chainsoft – <br className="lg:flex hidden" /> Your Gateway to Seamless <br className="lg:flex hidden" /> Blockchain implementation <br className="lg:flex hidden" /> and Integration!
+                        Welcome to Chainsoft  <br className="lg:flex hidden" /> Your Gateway to Seamless <br className="lg:flex hidden" /> Blockchain implementation <br className="lg:flex hidden" /> and Integration!
                     </p>
                     <div className="w-[270px] sm:w-[327px] h-[3px] bg-[#216EFC] mt-[10px] lg:mt-[40px]">
 
